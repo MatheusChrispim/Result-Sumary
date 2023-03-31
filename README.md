@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL:  (https://github.com/MatheusChrispim/Result-Sumary)
+- Live Site URL: (https://matheuschrispim.github.io/Result-Sumary/)
 
 ## My process
 
