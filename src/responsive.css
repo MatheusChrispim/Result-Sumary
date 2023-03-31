@@ -1,0 +1,74 @@
+@media(max-width: 375px){
+    body{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 860px;
+        background-color: hsl(0, 0%, 100%);
+    }
+
+    main{
+        width: 100%;
+        height: 98%;
+        margin: 0;
+    }
+
+    .scorecard{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        border-radius: 0;
+        box-shadow: 0;
+    }
+
+    .result{
+        width: 100%;
+        height: 45%;
+        border-top-right-radius: 0;
+        border-top-left-radius: 0;
+    }
+
+    .circle-result{
+        margin-top: 20px;
+        width: 45%;
+        height: 20vh;
+    }
+
+    .circle-result h3{
+        margin-bottom: -15px;
+    }
+
+    .result h2{
+        margin-top: 20px;
+    }
+
+    .result h4{
+        margin-top: 15px;
+        font-size: 25px;
+    }
+
+    .scorecard p{
+        margin-top: 20px;
+        text-align: center;
+        width: 70%;
+    
+    }
+
+    .summary{
+        height: 40%;
+        width: 90%;
+        margin: 10px 0 0px 25px;
+    }
+
+    ul{
+        width: 100%;
+    }
+
+    .btn-continue{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+}
